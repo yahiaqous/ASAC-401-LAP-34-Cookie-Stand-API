@@ -49,7 +49,7 @@ Notice the use of [JSONField](https://docs.djangoproject.com/en/3.1/ref/models/f
 
 &nbsp;
 
-**PR Link**: <https://github.com/YAHIAQOUS/drf-auth/pull/1>
+**PR Link**: <https://github.com/YAHIAQOUS/cookie-stand-api/pull/1>
 
 **ElephantSQL Database Deployment**: <https://api.elephantsql.com/console/129fdd3c-d3a1-4b4f-95d0-5c91c97e1d76/browser?#>
 
