@@ -1,7 +1,7 @@
 build:
-  docker:
-    web: Dockerfile
+    docker:
+        web: Dockerfile
 release:
-  image: web
+    image: web
 run:
-  web: gunicorn project.wsgi --workers 4
+    web: gunicorn project.wsgi --workers 4
